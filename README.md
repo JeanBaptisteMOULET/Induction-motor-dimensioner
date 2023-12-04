@@ -5,6 +5,6 @@ This app calculates the performance (Efficiency,Torque, Mechanical Power) of an 
 
 ![App_exemple.png](App_exemple.png)
 # The app require all the .m files in order to run  :
-![App_exemple.png](Download.png)
+![App_exemple.png](HowToDownload.png)
 # Once the files are extracted you can clic on "Open" from the file manager :
-![App_exemple.png](HowToOpen1.png)
+![App_exemple.png](HowToOpen.png)
